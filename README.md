@@ -19,7 +19,7 @@ This project is a simple digital clock that displays the current time and update
 
 ## Demo
 
-Check out the live demo [here](https://temperature-conversion-sigma.vercel.app/).
+Check out the live demo [here](https://digital-clock-psi-one.vercel.app/).
 
 ## Installation
 
